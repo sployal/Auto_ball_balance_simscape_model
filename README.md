@@ -31,8 +31,7 @@ The response graph below shows how the PID controller stabilizes the ball at the
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Auto_ball_balance_simscape_model.git
-   cd Auto_ball_balance_simscape_model
+   git clone https://github.com/sployal/Auto_ball_balance_simscape_model
    ```  
 2. Open MATLAB and navigate to the project folder.
 3. Run the Simscape model (`balance_system.slx`).
